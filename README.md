@@ -1,4 +1,4 @@
-# GoPhish :fish:
+# GoPhish :fish: - TartanHacks '25 :sparkles:
 https://www.figma.com/proto/WHuK9q6GQhtumuQ1IGWmaZ/Cybersecurity-App---TartanHacks?node-id=0-1&t=rV49KJ8MkpbDvoNA-1
 
 ## Our Description
